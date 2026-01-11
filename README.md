@@ -1,3 +1,4 @@
-# CS3602_pythia_accelerate
+# CS3602 pythia accelerate
 本项目中实现了包括量化精度，投机解码等针对pythia模型的高效推理方法，具体详见对应文件夹中的README.pdf，里面详细描述了实验思路方法，实验结果分析和实验复现方法。
+
 
