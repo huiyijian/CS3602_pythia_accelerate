@@ -1,0 +1,6 @@
+torch
+transformers
+accelerate
+modelscope
+datasets
+addict
